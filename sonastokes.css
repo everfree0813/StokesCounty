@@ -1,0 +1,140 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+
+
+.container1 {
+    text-align: center;
+    background-color: #6c98c5;
+    margin-top: 1%;
+    padding: 3%;
+}
+
+.news {
+    background-color: #f5FFF5;
+    text-align: center;
+   
+}
+
+.nc {
+    text-align: center;
+    color: white;
+}
+
+.nc1 {
+background-image: url(3.jpg);
+background-size: cover;
+margin: 0;
+}
+
+.ncc{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.left {
+    background-color: #e6e6e6;
+ 
+}
+
+.aa {
+    color: black;
+    border: 1px solid black;
+    margin-top: 10%;
+    
+}
+ .right img {
+    display: block;
+    width: 90%;
+     margin-left:auto;
+     margin-right:auto;
+ }
+
+.blue{
+   background-color: #6c98c5;
+   margin-bottom: 1%;
+    
+}
+
+h2 {
+    padding-bottom: 10%;
+    
+}
+
+.covid {
+    background-image: url("covid.jpeg");
+    width: 200px;
+    height: 250px;
+    background-size: cover;
+
+
+}
+
+.statement {
+    background-image: url("2.png");
+    width: 200px;
+    height: 250px;
+    background-size: cover;
+}
+
+.re {
+    background-image: url("re.jpeg");
+    width: 200px;
+    height: 250px;
+    background-size: cover;
+}
+
+.events {
+    background-image: url("events.jpeg");
+    width: 200px;
+    height: 250px;
+    background-size: cover;
+}
+
+.notice {
+    background-image: url("notice.jpeg");
+    width: 200px;
+    height: 250px;
+    background-size: cover;
+}
+
+h1 {
+    color: red;
+}
+
+.button {
+    color: black;
+}
+
+.effective {
+    color: seagreen;
+    
+}
+
+.post {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border: 2px solid black;
+    font-size: 130%;
+
+}
+
+.recent{
+    color: black;
+}
+
+.video {
+    color:black;
+    border: 1px solid black;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    text-align: center;
+}
+
+.cor {
+    color: tomato;
+}
+
